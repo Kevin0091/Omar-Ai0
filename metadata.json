@@ -1,0 +1,6 @@
+{
+  "name": "OmarAI",
+  "description": "A full-stack AI assistant with real-time chat, conversation history, user authentication, and system-level attribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
